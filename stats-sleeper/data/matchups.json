@@ -1,0 +1,1591 @@
+[
+  {
+    "id": 1,
+    "week": 1,
+    "matchup_id": 6,
+    "team1": {
+      "roster_id": 1,
+      "team_name": "tomgray",
+      "bench_points": 80.0,
+      "bench_players": [
+        {
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL",
+          "points": 20.4
+        },
+        {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI",
+          "points": 9.5
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF",
+          "points": 14.8
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "NE",
+          "points": 11.7
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB",
+          "points": 23.6
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 11,
+      "team_name": "NotTooShabby67",
+      "bench_points": 12.1,
+      "bench_players": [
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG",
+          "points": 2.9
+        },
+        {
+          "player_id": "7528",
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "LAC",
+          "points": 2.0
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB",
+          "points": 0.0
+        },
+        {
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "SF",
+          "points": 3.6
+        },
+        {
+          "player_id": "12501",
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB",
+          "points": 3.6
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 1,
+      "team_name": "tomgray",
+      "bench_points": 80.0,
+      "bench_players": [
+        {
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL",
+          "points": 20.4
+        },
+        {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI",
+          "points": 9.5
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF",
+          "points": 14.8
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "NE",
+          "points": 11.7
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB",
+          "points": 23.6
+        }
+      ]
+    },
+    "margin_of_victory": 67.9,
+    "date_recorded": "2025-09-16T20:30:46.002763"
+  },
+  {
+    "id": 2,
+    "week": 1,
+    "matchup_id": 4,
+    "team1": {
+      "roster_id": 2,
+      "team_name": "FancyLad",
+      "bench_points": 37.9,
+      "bench_players": [
+        {
+          "player_id": "4988",
+          "name": "Nick Chubb",
+          "position": "RB",
+          "team": "HOU",
+          "points": 6.0
+        },
+        {
+          "player_id": "11655",
+          "name": "Tyrone Tracy",
+          "position": "RB",
+          "team": "NYG",
+          "points": 5.5
+        },
+        {
+          "player_id": "7553",
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL",
+          "points": 12.9
+        },
+        {
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE",
+          "points": 0.0
+        },
+        {
+          "player_id": "10222",
+          "name": "Jayden Reed",
+          "position": "WR",
+          "team": "GB",
+          "points": 13.5
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 4,
+      "team_name": "TheOnlySarge",
+      "bench_points": 43.9,
+      "bench_players": [
+        {
+          "player_id": "9494",
+          "name": "Marvin Mims",
+          "position": "WR",
+          "team": "DEN",
+          "points": 2.2
+        },
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI",
+          "points": 15.7
+        },
+        {
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT",
+          "points": 13.9
+        },
+        {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "CAR",
+          "points": 3.6
+        },
+        {
+          "player_id": "11589",
+          "name": "Trey Benson",
+          "position": "RB",
+          "team": "ARI",
+          "points": 8.5
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 4,
+      "team_name": "TheOnlySarge",
+      "bench_points": 43.9,
+      "bench_players": [
+        {
+          "player_id": "9494",
+          "name": "Marvin Mims",
+          "position": "WR",
+          "team": "DEN",
+          "points": 2.2
+        },
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI",
+          "points": 15.7
+        },
+        {
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT",
+          "points": 13.9
+        },
+        {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "CAR",
+          "points": 3.6
+        },
+        {
+          "player_id": "11589",
+          "name": "Trey Benson",
+          "position": "RB",
+          "team": "ARI",
+          "points": 8.5
+        }
+      ]
+    },
+    "margin_of_victory": 6.0,
+    "date_recorded": "2025-09-16T20:30:46.002793"
+  },
+  {
+    "id": 3,
+    "week": 1,
+    "matchup_id": 2,
+    "team1": {
+      "roster_id": 3,
+      "team_name": "NicksKnack",
+      "bench_points": 27.48,
+      "bench_players": [
+        {
+          "player_id": "MIN",
+          "name": "Minnesota Vikings",
+          "position": "DEF",
+          "team": "MIN",
+          "points": 6.0
+        },
+        {
+          "player_id": "12530",
+          "name": "Travis Hunter",
+          "position": "WR",
+          "team": "JAX",
+          "points": 9.3
+        },
+        {
+          "player_id": "12541",
+          "name": "Dont'e Thornton",
+          "position": "WR",
+          "team": "LV",
+          "points": 6.5
+        },
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI",
+          "points": 3.2
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN",
+          "points": 2.48
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 7,
+      "team_name": "nev419",
+      "bench_points": 41.42,
+      "bench_players": [
+        {
+          "player_id": "8143",
+          "name": "Jerome Ford",
+          "position": "RB",
+          "team": "CLE",
+          "points": 1.5
+        },
+        {
+          "player_id": "1234",
+          "name": "Russell Wilson",
+          "position": "QB",
+          "team": "NYG",
+          "points": 11.12
+        },
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "position": "RB",
+          "team": "JAX",
+          "points": 18.6
+        },
+        {
+          "player_id": "4981",
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN",
+          "points": 6.7
+        },
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "team": "SEA",
+          "points": 3.5
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 7,
+      "team_name": "nev419",
+      "bench_points": 41.42,
+      "bench_players": [
+        {
+          "player_id": "8143",
+          "name": "Jerome Ford",
+          "position": "RB",
+          "team": "CLE",
+          "points": 1.5
+        },
+        {
+          "player_id": "1234",
+          "name": "Russell Wilson",
+          "position": "QB",
+          "team": "NYG",
+          "points": 11.12
+        },
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "position": "RB",
+          "team": "JAX",
+          "points": 18.6
+        },
+        {
+          "player_id": "4981",
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN",
+          "points": 6.7
+        },
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "team": "SEA",
+          "points": 3.5
+        }
+      ]
+    },
+    "margin_of_victory": 13.94,
+    "date_recorded": "2025-09-16T20:30:46.002799"
+  },
+  {
+    "id": 4,
+    "week": 1,
+    "matchup_id": 5,
+    "team1": {
+      "roster_id": 5,
+      "team_name": "norfolknchance23",
+      "bench_points": 75.36,
+      "bench_players": [
+        {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR",
+          "points": 13.6
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "LV",
+          "points": 17.7
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF",
+          "points": 11.1
+        },
+        {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL",
+          "points": 7.3
+        },
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "points": 25.66
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 8,
+      "team_name": "timoslimo",
+      "bench_points": 59.76,
+      "bench_players": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "points": 25.2
+        },
+        {
+          "player_id": "6768",
+          "name": "Tua Tagovailoa",
+          "position": "QB",
+          "team": "MIA",
+          "points": 7.26
+        },
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "points": 17.3
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS",
+          "points": 8.7
+        },
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA",
+          "points": 1.3
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 5,
+      "team_name": "norfolknchance23",
+      "bench_points": 75.36,
+      "bench_players": [
+        {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR",
+          "points": 13.6
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "LV",
+          "points": 17.7
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF",
+          "points": 11.1
+        },
+        {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL",
+          "points": 7.3
+        },
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "points": 25.66
+        }
+      ]
+    },
+    "margin_of_victory": 15.6,
+    "date_recorded": "2025-09-16T20:30:46.002804"
+  },
+  {
+    "id": 5,
+    "week": 1,
+    "matchup_id": 1,
+    "team1": {
+      "roster_id": 6,
+      "team_name": "HuskyinOz",
+      "bench_points": 21.9,
+      "bench_players": [
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN",
+          "points": 0.0
+        },
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC",
+          "points": 0.0
+        },
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
+          "points": 14.2
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "team": "SF",
+          "points": 4.7
+        },
+        {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL",
+          "points": 3.0
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 12,
+      "team_name": "Tumble0",
+      "bench_points": 58.8,
+      "bench_players": [
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "points": 10.7
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "HOU",
+          "points": 0.0
+        },
+        {
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "DAL",
+          "points": 0.0
+        },
+        {
+          "player_id": "9997",
+          "name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL",
+          "points": 28.1
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "team": "IND",
+          "points": 20.0
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 12,
+      "team_name": "Tumble0",
+      "bench_points": 58.8,
+      "bench_players": [
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "points": 10.7
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "HOU",
+          "points": 0.0
+        },
+        {
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "DAL",
+          "points": 0.0
+        },
+        {
+          "player_id": "9997",
+          "name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL",
+          "points": 28.1
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "team": "IND",
+          "points": 20.0
+        }
+      ]
+    },
+    "margin_of_victory": 36.9,
+    "date_recorded": "2025-09-16T20:30:46.002809"
+  },
+  {
+    "id": 6,
+    "week": 1,
+    "matchup_id": 3,
+    "team1": {
+      "roster_id": 9,
+      "team_name": "H3AN5",
+      "bench_points": 46.92,
+      "bench_players": [
+        {
+          "player_id": "4144",
+          "name": "Jonnu Smith",
+          "position": "TE",
+          "team": "PIT",
+          "points": 12.5
+        },
+        {
+          "player_id": "11559",
+          "name": "Michael Penix",
+          "position": "QB",
+          "team": "ATL",
+          "points": 24.02
+        },
+        {
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
+          "points": 1.2
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
+          "points": 0.7
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "points": 8.5
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 10,
+      "team_name": "BootyClapper22",
+      "bench_points": 23.8,
+      "bench_players": [
+        {
+          "player_id": "7090",
+          "name": "Darnell Mooney",
+          "position": "WR",
+          "team": "ATL",
+          "points": 0.0
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT",
+          "points": 5.8
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "points": 12.4
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND",
+          "points": 3.2
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ATL",
+          "points": 2.4
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 9,
+      "team_name": "H3AN5",
+      "bench_points": 46.92,
+      "bench_players": [
+        {
+          "player_id": "4144",
+          "name": "Jonnu Smith",
+          "position": "TE",
+          "team": "PIT",
+          "points": 12.5
+        },
+        {
+          "player_id": "11559",
+          "name": "Michael Penix",
+          "position": "QB",
+          "team": "ATL",
+          "points": 24.02
+        },
+        {
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
+          "points": 1.2
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
+          "points": 0.7
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "points": 8.5
+        }
+      ]
+    },
+    "margin_of_victory": 23.12,
+    "date_recorded": "2025-09-16T20:30:46.002814"
+  },
+  {
+    "id": 7,
+    "week": 2,
+    "matchup_id": 5,
+    "team1": {
+      "roster_id": 1,
+      "team_name": "tomgray",
+      "bench_points": 49.2,
+      "bench_players": [
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "points": 0.0
+        },
+        {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI",
+          "points": 13.9
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI",
+          "points": 9.3
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "NE",
+          "points": 7.2
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker",
+          "position": "RB",
+          "team": "SEA",
+          "points": 18.8
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 8,
+      "team_name": "timoslimo",
+      "bench_points": 32.0,
+      "bench_players": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "points": 5.6
+        },
+        {
+          "player_id": "6768",
+          "name": "Tua Tagovailoa",
+          "position": "QB",
+          "team": "MIA",
+          "points": 19.6
+        },
+        {
+          "player_id": "12504",
+          "name": "Kaleb Johnson",
+          "position": "RB",
+          "team": "PIT",
+          "points": 0.1
+        },
+        {
+          "player_id": "12471",
+          "name": "DJ Giddens",
+          "position": "RB",
+          "team": "IND",
+          "points": 0.0
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS",
+          "points": 4.4
+        },
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA",
+          "points": 2.3
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 1,
+      "team_name": "tomgray",
+      "bench_points": 49.2,
+      "bench_players": [
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI",
+          "points": 0.0
+        },
+        {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI",
+          "points": 13.9
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI",
+          "points": 9.3
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "NE",
+          "points": 7.2
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker",
+          "position": "RB",
+          "team": "SEA",
+          "points": 18.8
+        }
+      ]
+    },
+    "margin_of_victory": 17.2,
+    "date_recorded": "2025-09-16T20:30:47.339183"
+  },
+  {
+    "id": 8,
+    "week": 2,
+    "matchup_id": 3,
+    "team1": {
+      "roster_id": 2,
+      "team_name": "FancyLad",
+      "bench_points": 30.9,
+      "bench_players": [
+        {
+          "player_id": "4988",
+          "name": "Nick Chubb",
+          "position": "RB",
+          "team": "HOU",
+          "points": 15.2
+        },
+        {
+          "player_id": "5848",
+          "name": "Hollywood Brown",
+          "position": "WR",
+          "team": "KC",
+          "points": 8.0
+        },
+        {
+          "player_id": "7553",
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL",
+          "points": 7.7
+        },
+        {
+          "player_id": "10222",
+          "name": "Jayden Reed",
+          "position": "WR",
+          "team": "GB",
+          "points": 0.0
+        },
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC",
+          "points": 0.0
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 9,
+      "team_name": "H3AN5",
+      "bench_points": 31.8,
+      "bench_players": [
+        {
+          "player_id": "4144",
+          "name": "Jonnu Smith",
+          "position": "TE",
+          "team": "PIT",
+          "points": 6.7
+        },
+        {
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
+          "points": 0.0
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
+          "points": 1.5
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
+          "points": 17.8
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "points": 5.8
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 9,
+      "team_name": "H3AN5",
+      "bench_points": 31.8,
+      "bench_players": [
+        {
+          "player_id": "4144",
+          "name": "Jonnu Smith",
+          "position": "TE",
+          "team": "PIT",
+          "points": 6.7
+        },
+        {
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
+          "points": 0.0
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "position": "WR",
+          "team": "CHI",
+          "points": 1.5
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA",
+          "points": 17.8
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "points": 5.8
+        }
+      ]
+    },
+    "margin_of_victory": 0.9,
+    "date_recorded": "2025-09-16T20:30:47.339203"
+  },
+  {
+    "id": 9,
+    "week": 2,
+    "matchup_id": 1,
+    "team1": {
+      "roster_id": 3,
+      "team_name": "NicksKnack",
+      "bench_points": 52.0,
+      "bench_players": [
+        {
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB",
+          "points": 24.4
+        },
+        {
+          "player_id": "MIN",
+          "name": "Minnesota Vikings",
+          "position": "DEF",
+          "team": "MIN",
+          "points": 6.0
+        },
+        {
+          "player_id": "12530",
+          "name": "Travis Hunter",
+          "position": "WR",
+          "team": "JAX",
+          "points": 5.2
+        },
+        {
+          "player_id": "7567",
+          "name": "Kenneth Gainwell",
+          "position": "RB",
+          "team": "PIT",
+          "points": 6.6
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN",
+          "points": 9.8
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 12,
+      "team_name": "Tumble0",
+      "bench_points": 23.9,
+      "bench_players": [
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "points": 1.0
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "HOU",
+          "points": 0.0
+        },
+        {
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "DAL",
+          "points": 0.0
+        },
+        {
+          "player_id": "9997",
+          "name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL",
+          "points": 14.9
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "team": "IND",
+          "points": 8.0
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 3,
+      "team_name": "NicksKnack",
+      "bench_points": 52.0,
+      "bench_players": [
+        {
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB",
+          "points": 24.4
+        },
+        {
+          "player_id": "MIN",
+          "name": "Minnesota Vikings",
+          "position": "DEF",
+          "team": "MIN",
+          "points": 6.0
+        },
+        {
+          "player_id": "12530",
+          "name": "Travis Hunter",
+          "position": "WR",
+          "team": "JAX",
+          "points": 5.2
+        },
+        {
+          "player_id": "7567",
+          "name": "Kenneth Gainwell",
+          "position": "RB",
+          "team": "PIT",
+          "points": 6.6
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN",
+          "points": 9.8
+        }
+      ]
+    },
+    "margin_of_victory": 28.1,
+    "date_recorded": "2025-09-16T20:30:47.339208"
+  },
+  {
+    "id": 10,
+    "week": 2,
+    "matchup_id": 4,
+    "team1": {
+      "roster_id": 4,
+      "team_name": "TheOnlySarge",
+      "bench_points": 22.7,
+      "bench_players": [
+        {
+          "player_id": "9494",
+          "name": "Marvin Mims",
+          "position": "WR",
+          "team": "DEN",
+          "points": 10.4
+        },
+        {
+          "player_id": "8205",
+          "name": "Isiah Pacheco",
+          "position": "RB",
+          "team": "KC",
+          "points": 3.9
+        },
+        {
+          "player_id": "4018",
+          "name": "Joe Mixon",
+          "position": "RB",
+          "team": "HOU",
+          "points": 0.0
+        },
+        {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "position": "QB",
+          "team": "SF",
+          "points": 0.0
+        },
+        {
+          "player_id": "11589",
+          "name": "Trey Benson",
+          "position": "RB",
+          "team": "ARI",
+          "points": 8.4
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 10,
+      "team_name": "BootyClapper22",
+      "bench_points": 32.3,
+      "bench_players": [
+        {
+          "player_id": "7090",
+          "name": "Darnell Mooney",
+          "position": "WR",
+          "team": "ATL",
+          "points": 4.0
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND",
+          "points": 11.1
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "points": 2.2
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ATL",
+          "points": 15.0
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 10,
+      "team_name": "BootyClapper22",
+      "bench_points": 32.3,
+      "bench_players": [
+        {
+          "player_id": "7090",
+          "name": "Darnell Mooney",
+          "position": "WR",
+          "team": "ATL",
+          "points": 4.0
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND",
+          "points": 11.1
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "points": 2.2
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ATL",
+          "points": 15.0
+        }
+      ]
+    },
+    "margin_of_victory": 9.6,
+    "date_recorded": "2025-09-16T20:30:47.339213"
+  },
+  {
+    "id": 11,
+    "week": 2,
+    "matchup_id": 6,
+    "team1": {
+      "roster_id": 5,
+      "team_name": "norfolknchance23",
+      "bench_points": 67.04,
+      "bench_players": [
+        {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR",
+          "points": 18.32
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "LV",
+          "points": 12.8
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF",
+          "points": 6.7
+        },
+        {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL",
+          "points": 16.8
+        },
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "points": 12.42
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 11,
+      "team_name": "NotTooShabby67",
+      "bench_points": 42.1,
+      "bench_players": [
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG",
+          "points": 13.9
+        },
+        {
+          "player_id": "7528",
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "LAC",
+          "points": 6.8
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB",
+          "points": 0.0
+        },
+        {
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "SF",
+          "points": 19.9
+        },
+        {
+          "player_id": "12501",
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB",
+          "points": 1.5
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 5,
+      "team_name": "norfolknchance23",
+      "bench_points": 67.04,
+      "bench_players": [
+        {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR",
+          "points": 18.32
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "LV",
+          "points": 12.8
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF",
+          "points": 6.7
+        },
+        {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL",
+          "points": 16.8
+        },
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "points": 12.42
+        }
+      ]
+    },
+    "margin_of_victory": 24.94,
+    "date_recorded": "2025-09-16T20:30:47.339218"
+  },
+  {
+    "id": 12,
+    "week": 2,
+    "matchup_id": 2,
+    "team1": {
+      "roster_id": 6,
+      "team_name": "HuskyinOz",
+      "bench_points": 8.1,
+      "bench_players": [
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN",
+          "points": 0.0
+        },
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC",
+          "points": 0.0
+        },
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
+          "points": 1.7
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "team": "SF",
+          "points": 2.9
+        },
+        {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL",
+          "points": 3.5
+        }
+      ]
+    },
+    "team2": {
+      "roster_id": 7,
+      "team_name": "nev419",
+      "bench_points": 68.04,
+      "bench_players": [
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "LAC",
+          "points": 17.1
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN",
+          "points": 3.4
+        },
+        {
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND",
+          "points": 22.84
+        },
+        {
+          "player_id": "4981",
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN",
+          "points": 8.7
+        },
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "team": "SEA",
+          "points": 16.0
+        }
+      ]
+    },
+    "winner": {
+      "roster_id": 7,
+      "team_name": "nev419",
+      "bench_points": 68.04,
+      "bench_players": [
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "LAC",
+          "points": 17.1
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN",
+          "points": 3.4
+        },
+        {
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND",
+          "points": 22.84
+        },
+        {
+          "player_id": "4981",
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN",
+          "points": 8.7
+        },
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "team": "SEA",
+          "points": 16.0
+        }
+      ]
+    },
+    "margin_of_victory": 59.94,
+    "date_recorded": "2025-09-16T20:30:47.339223"
+  }
+]

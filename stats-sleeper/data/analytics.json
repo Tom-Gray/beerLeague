@@ -1,0 +1,211 @@
+{
+  "league_stats": {
+    "total_weeks": 2,
+    "total_teams": 12,
+    "total_matchups": 12,
+    "average_weekly_points": 41.23,
+    "highest_weekly_score": 80.0,
+    "lowest_weekly_score": 8.1,
+    "total_points_scored": 989.42
+  },
+  "weekly_trends": [
+    {
+      "week": 1,
+      "average_points": 44.11,
+      "highest_score": 80.0,
+      "lowest_score": 12.1,
+      "total_points": 529.34,
+      "teams_played": 12
+    },
+    {
+      "week": 2,
+      "average_points": 38.34,
+      "highest_score": 68.04,
+      "lowest_score": 8.1,
+      "total_points": 460.08,
+      "teams_played": 12
+    }
+  ],
+  "team_performance": [
+    {
+      "team": {
+        "roster_id": 5,
+        "team_name": "norfolknchance23",
+        "owner_id": "1155320384868003840"
+      },
+      "total_points": 142.4,
+      "average_points": 71.2,
+      "weeks_played": 2,
+      "best_week": 75.36,
+      "worst_week": 67.04,
+      "wins": 2,
+      "losses": 0,
+      "win_percentage": 1.0
+    },
+    {
+      "team": {
+        "roster_id": 1,
+        "team_name": "tomgray",
+        "owner_id": "842241309631684608"
+      },
+      "total_points": 129.2,
+      "average_points": 64.6,
+      "weeks_played": 2,
+      "best_week": 80.0,
+      "worst_week": 49.2,
+      "wins": 2,
+      "losses": 0,
+      "win_percentage": 1.0
+    },
+    {
+      "team": {
+        "roster_id": 7,
+        "team_name": "nev419",
+        "owner_id": "607410971987742720"
+      },
+      "total_points": 109.46,
+      "average_points": 54.73,
+      "weeks_played": 2,
+      "best_week": 68.04,
+      "worst_week": 41.42,
+      "wins": 2,
+      "losses": 0,
+      "win_percentage": 1.0
+    },
+    {
+      "team": {
+        "roster_id": 9,
+        "team_name": "H3AN5",
+        "owner_id": "1254566939422896128"
+      },
+      "total_points": 78.72,
+      "average_points": 39.36,
+      "weeks_played": 2,
+      "best_week": 46.92,
+      "worst_week": 31.8,
+      "wins": 2,
+      "losses": 0,
+      "win_percentage": 1.0
+    },
+    {
+      "team": {
+        "roster_id": 12,
+        "team_name": "Tumble0",
+        "owner_id": "1263803902390710272"
+      },
+      "total_points": 82.7,
+      "average_points": 41.35,
+      "weeks_played": 2,
+      "best_week": 58.8,
+      "worst_week": 23.9,
+      "wins": 1,
+      "losses": 1,
+      "win_percentage": 0.5
+    },
+    {
+      "team": {
+        "roster_id": 3,
+        "team_name": "NicksKnack",
+        "owner_id": "1180047268102877184"
+      },
+      "total_points": 79.48,
+      "average_points": 39.74,
+      "weeks_played": 2,
+      "best_week": 52.0,
+      "worst_week": 27.48,
+      "wins": 1,
+      "losses": 1,
+      "win_percentage": 0.5
+    },
+    {
+      "team": {
+        "roster_id": 4,
+        "team_name": "TheOnlySarge",
+        "owner_id": "1241182181762543616"
+      },
+      "total_points": 66.6,
+      "average_points": 33.3,
+      "weeks_played": 2,
+      "best_week": 43.9,
+      "worst_week": 22.7,
+      "wins": 1,
+      "losses": 1,
+      "win_percentage": 0.5
+    },
+    {
+      "team": {
+        "roster_id": 10,
+        "team_name": "BootyClapper22",
+        "owner_id": "1261245772238688256"
+      },
+      "total_points": 56.1,
+      "average_points": 28.05,
+      "weeks_played": 2,
+      "best_week": 32.3,
+      "worst_week": 23.8,
+      "wins": 1,
+      "losses": 1,
+      "win_percentage": 0.5
+    },
+    {
+      "team": {
+        "roster_id": 8,
+        "team_name": "timoslimo",
+        "owner_id": "1015233876345638912"
+      },
+      "total_points": 91.76,
+      "average_points": 45.88,
+      "weeks_played": 2,
+      "best_week": 59.76,
+      "worst_week": 32.0,
+      "wins": 0,
+      "losses": 2,
+      "win_percentage": 0.0
+    },
+    {
+      "team": {
+        "roster_id": 2,
+        "team_name": "FancyLad",
+        "owner_id": "1240849287072468992"
+      },
+      "total_points": 68.8,
+      "average_points": 34.4,
+      "weeks_played": 2,
+      "best_week": 37.9,
+      "worst_week": 30.9,
+      "wins": 0,
+      "losses": 2,
+      "win_percentage": 0.0
+    },
+    {
+      "team": {
+        "roster_id": 11,
+        "team_name": "NotTooShabby67",
+        "owner_id": "1261262324707098624"
+      },
+      "total_points": 54.2,
+      "average_points": 27.1,
+      "weeks_played": 2,
+      "best_week": 42.1,
+      "worst_week": 12.1,
+      "wins": 0,
+      "losses": 2,
+      "win_percentage": 0.0
+    },
+    {
+      "team": {
+        "roster_id": 6,
+        "team_name": "HuskyinOz",
+        "owner_id": "1248232037073035264"
+      },
+      "total_points": 30.0,
+      "average_points": 15.0,
+      "weeks_played": 2,
+      "best_week": 21.9,
+      "worst_week": 8.1,
+      "wins": 0,
+      "losses": 2,
+      "win_percentage": 0.0
+    }
+  ]
+}

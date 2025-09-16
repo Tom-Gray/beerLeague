@@ -1,0 +1,56 @@
+name: Deploy Beer League Dashboard to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'stats-sleeper/data/**'
+      - 'beer-league-dashboard/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        cache-dependency-path: beer-league-dashboard/package.json
+        
+        
+    - name: Install frontend dependencies
+      run: |
+        cd beer-league-dashboard/frontend
+        npm ci
+        
+    - name: Build static site with data processing
+      run: |
+        cd beer-league-dashboard/frontend
+        npm run build:static
+        
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './beer-league-dashboard/frontend/build'
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

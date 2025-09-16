@@ -1,0 +1,13 @@
+week,matchup_id,team1_roster_id,team1_name,team1_bench_points,team2_roster_id,team2_name,team2_bench_points,winner_roster_id,margin_of_victory,date_recorded
+1,6,1,tomgray,80.0,11,NotTooShabby67,12.1,1,67.9,2025-09-12T19:50:28.919788
+1,4,2,FancyLad,37.9,4,TheOnlySarge,43.9,4,6.0,2025-09-12T19:50:28.919827
+1,2,3,NicksKnack,27.48,7,nev419,41.42,7,13.94,2025-09-12T19:50:28.919835
+1,5,5,norfolknchance23,75.36,8,timoslimo,59.76,5,15.6,2025-09-12T19:50:28.919841
+1,1,6,HuskyinOz,21.9,12,Tumble0,58.8,12,36.9,2025-09-12T19:50:28.919846
+1,3,9,H3AN5,46.92,10,BootyClapper22,23.8,9,23.12,2025-09-12T19:50:28.919851
+2,5,1,tomgray,0.0,8,timoslimo,4.4,8,4.4,2025-09-12T19:50:30.238924
+2,3,2,FancyLad,0.0,9,H3AN5,0.0,2,0.0,2025-09-12T19:50:30.238948
+2,1,3,NicksKnack,24.4,12,Tumble0,0.0,3,24.4,2025-09-12T19:50:30.238954
+2,4,4,TheOnlySarge,0.0,10,BootyClapper22,0.0,4,0.0,2025-09-12T19:50:30.239030
+2,6,5,norfolknchance23,0.0,11,NotTooShabby67,1.5,11,1.5,2025-09-12T19:50:30.239044
+2,2,6,HuskyinOz,1.7,7,nev419,0.0,6,1.7,2025-09-12T19:50:30.239050
