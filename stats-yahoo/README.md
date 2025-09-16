@@ -169,3 +169,13 @@ Once you have the CSV files, you can:
 4. Build historical league statistics
 
 The CSV format makes it easy to integrate with any web framework or data analysis tool.
+
+
+## Creds
+
+App ID
+ScQV3IiM
+Client ID (Consumer Key)
+dj0yJmk9Q3R6bEV6TUJRaHFIJmQ9WVdrOVUyTlJWak5KYVUwbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWZi
+Client Secret (Consumer Secret)
+f311891f288cddd21926c2d6d27fb5f928d8da9e
