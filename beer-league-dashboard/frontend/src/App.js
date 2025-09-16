@@ -4,7 +4,7 @@ import StandingsTable from './components/StandingsTable';
 import MatchupsList from './components/MatchupsList';
 import AnalyticsCharts from './components/AnalyticsCharts';
 
-const DATA_BASE_URL = '/data';
+const DATA_BASE_URL = './data';
 
 function App() {
   const [activeTab, setActiveTab] = useState('standings');
