@@ -9,13 +9,8 @@ import {
   Legend,
   BarChart,
   Bar,
-  ResponsiveContainer,
-  PieChart,
-  Pie,
-  Cell
+  ResponsiveContainer
 } from 'recharts';
-
-const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#8884D8', '#82CA9D', '#FFC658', '#FF7C7C'];
 
 const AnalyticsCharts = ({ analytics }) => {
   if (!analytics || Object.keys(analytics).length === 0) {
@@ -37,11 +32,11 @@ const AnalyticsCharts = ({ analytics }) => {
         <div className="stats-overview">
           <div className="stat-card">
             <h3>League Average</h3>
-            <div className="stat-value">{league_stats.average_bench_points?.toFixed(1)} pts</div>
+            <div className="stat-value">{league_stats.average_weekly_points?.toFixed(1)} pts</div>
           </div>
           <div className="stat-card">
             <h3>Highest Week</h3>
-            <div className="stat-value">{league_stats.highest_single_week?.toFixed(1)} pts</div>
+            <div className="stat-value">{league_stats.highest_weekly_score?.toFixed(1)} pts</div>
           </div>
           <div className="stat-card">
             <h3>Total Weeks</h3>
@@ -74,14 +69,14 @@ const AnalyticsCharts = ({ analytics }) => {
               />
               <Line 
                 type="monotone" 
-                dataKey="highest_points" 
+                dataKey="highest_score" 
                 stroke="#82ca9d" 
                 strokeWidth={2}
                 name="Week High"
               />
               <Line 
                 type="monotone" 
-                dataKey="lowest_points" 
+                dataKey="lowest_score" 
                 stroke="#ffc658" 
                 strokeWidth={2}
                 name="Week Low"
@@ -125,37 +120,6 @@ const AnalyticsCharts = ({ analytics }) => {
         </div>
       )}
 
-      {/* Wins Distribution Pie Chart */}
-      {team_performance && team_performance.length > 0 && (
-        <div className="chart-section">
-          <h3>Weekly Wins Distribution</h3>
-          <ResponsiveContainer width="100%" height={400}>
-            <PieChart>
-              <Pie
-                data={team_performance.map(team => ({
-                  ...team,
-                  team_name: team.team.team_name
-                }))}
-                cx="50%"
-                cy="50%"
-                labelLine={false}
-                label={({ team_name, wins }) => `${team_name}: ${wins}`}
-                outerRadius={120}
-                fill="#8884d8"
-                dataKey="wins"
-              >
-                {team_performance.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                ))}
-              </Pie>
-              <Tooltip 
-                formatter={(value, name) => [value, 'Wins']}
-                labelFormatter={(label) => `Team: ${label}`}
-              />
-            </PieChart>
-          </ResponsiveContainer>
-        </div>
-      )}
     </div>
   );
 };
